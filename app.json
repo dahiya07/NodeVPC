@@ -1,9 +1,0 @@
-{
-  "name": "heroku-nginx-proxy-node",
-  "repository": "https://github.com/dahiya07/NodeVPC.git",
-  "buildpacks": [{
-    "url": "https://github.com/heroku/heroku-buildpack-nginx.git"
-  }, {
-    "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
-  }]
-}
